@@ -1,10 +1,8 @@
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/light.svg">
+<p align="center">
   <img src="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/dark.svg" width="100%" alt="Sadia Khan Banner">
-</picture>
+</p>
 
 </p>
 
