@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/light.svg">
-  <img src="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/light.svg" width="100%" alt="Sadia Khan Banner">
+  <img src="https://raw.githubusercontent.com/sadiakhanwebdev/sadiakhanwebdev/main/assets/dark.svg" width="100%" alt="Sadia Khan Banner">
 </picture>
 
 </p>
@@ -99,7 +99,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
 
 </p>
 
